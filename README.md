@@ -11,9 +11,9 @@ http://starcolon.com/dental-nerve-inspector/index.html
 
 ## Requirements
 
-[x] [OpenCV 2.x](http://opencv.org/)
-[x] [VTK](http://www.vtk.org/)
-[x] [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface)
+- [x] [OpenCV 2.x](http://opencv.org/)
+- [x] [VTK](http://www.vtk.org/)
+- [x] [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface)
 
 
 ---
